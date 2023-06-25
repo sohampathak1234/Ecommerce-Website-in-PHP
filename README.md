@@ -1,32 +1,30 @@
-# The Plant Emporium
+# The Plant Emporium 🪴
 
 Welcome to The Plant Emporium! This is a basic ecommerce website built in PHP, designed specifically for a plant nursery. The website allows users to browse and purchase plants, while providing an admin interface for managing products.
 
-## Features
+## Features ✨
 User Registration and Login: Users can create an account or log in if they already have one. PHP sessions are utilized for user authentication, ensuring secure access to the website.
 
-#### Product Catalog: 
+* Product Catalog: 
 Users can browse through the available plant products and view detailed information about each item, including images, descriptions, and prices.
 
-#### Shopping Cart: 
+* Shopping Cart: 
 Users can add products to their shopping cart, update the quantity of each item, and remove items from the cart.
 
-#### Checkout: 
+* Checkout: 
 Users can proceed to the checkout process, where they can review their order, enter shipping and billing details, and complete the purchase.
 
-#### Admin Dashboard: 
+* Admin Dashboard: 
 An admin interface is provided for managing the products available on the website. The admin can perform CRUD (Create, Read, Update, Delete) operations on products, allowing them to add new plants, edit existing ones, and remove products from the catalog.
 
-
-
-## Development Tools
+## Development Tools ⚒️
 This project was developed using the following tools:
 
-IDE: Visual Studio Code (VSCode)
-Server Environment: XAMPP (Apache, MySQL, PHP, phpMyAdmin)
-Database: MySQL
+* IDE: Visual Studio Code (VSCode)
+* Server Environment: XAMPP (Apache, MySQL, PHP, phpMyAdmin)
+* Database: MySQL
 
-## Installation
+## Installation ⚙️
 Clone this repository to your local machine using the following command:
 
 bash
@@ -46,7 +44,8 @@ Copy the cloned repository to the htdocs folder in your XAMPP installation direc
 
 Open your web browser and visit http://localhost/The-Plant-Emporium to access The Plant Emporium website.
 
-## Usage
+
+## Usage 🚀
 
 ### As a User:
 
@@ -63,12 +62,17 @@ Access the admin dashboard, where you can manage the products.
 Perform CRUD operations on products: add new plants, edit existing ones, or delete items from the catalog.
 Log out when you have finished managing the website.
 
+## Screenshot 📸
 
-## Contributing
+![Photo](https://github.com/sohampathak1234/The-Plant-Emporium/blob/main/Ecom/admin/product/UploadedImage/ThePlantEmporium.png)
+Glimpse of Website
+
+## Contributing 🤝
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing coding style and provide clear and concise descriptions for your changes.
 
 
-This project was developed by Soham Pathak. If you have any questions or need assistance, please don't hesitate to reach out.
+
+>This project was developed by Soham Pathak. If you have any questions or need assistance, please don't hesitate to reach out.
 
 
 
